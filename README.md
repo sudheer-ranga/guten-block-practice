@@ -9,3 +9,9 @@ Made changes to work with `GutenBlock`.
 Making gutenberg block development easy with:
 1. Code Splitting
 2. Hot reload
+
+To start the plugin in development mode
+`npm start`
+
+To build
+`npm run build`
